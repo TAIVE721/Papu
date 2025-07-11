@@ -7,6 +7,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   const hola = "hola mundo como estan todos";
+  const holamund = "hola mundo";
   return (
     <>
       <div>
